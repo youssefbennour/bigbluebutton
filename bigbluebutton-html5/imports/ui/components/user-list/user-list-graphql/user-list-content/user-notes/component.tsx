@@ -185,9 +185,9 @@ const UserNotesGraphql: React.FC<UserNotesGraphqlProps> = (props) => {
         </Styled.SmallTitle>
       </Styled.Container>
       <Styled.ScrollableList>
-        <Styled.List>
+        {/* <Styled.List>
           {renderNotes()}
-        </Styled.List>
+        </Styled.List> */}
       </Styled.ScrollableList>
     </Styled.Messages>
   );
