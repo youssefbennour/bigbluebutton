@@ -1,3 +1,14 @@
+.project
+*.war
+stacktrace.log
+lib
+target/*
+bin/*
+plugins/*
+/bin/
+build/
+logs/
+
 run.sh
 
 build.gradle
